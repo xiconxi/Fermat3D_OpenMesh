@@ -3,7 +3,7 @@ An implementations for Coverage Path Planning(CPP) problem. It can fill any wate
 
 Fill a mesh with one line only(网格一笔画).
 ## Demo Time
-![](https://raw.githubusercontent.com/xiconxi/Fermat3D/master/data/fermatcpp.gif)
+![](./data/fermatcpp.gif)
 
 ## Dependencies
 
