@@ -1,5 +1,5 @@
 # Fermat3D
-An implementations for Coverage Path Planning(CPP) problem. It can fill any watertight manifold tri mesh with a connected fermat spirals. Simpily, one inward and one outward only.
+An implementation for Coverage Path Planning(CPP) problem. It can fill any watertight manifold tri mesh with a connected fermat spirals. Simpily, one inward and one outward only.
 
 Fill a mesh with one line only(网格一笔画).
 ## Demo Time
